@@ -1,88 +1,55 @@
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Mauricio%20Junior&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas%20•%20Automações%20•%20Infra%20•%20Dark%20UI&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Mauricio%20Junior&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas%20•%20Automações%20•%20Infra&descAlignY=60&descAlign=50"/>
 
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Desenvolvedor+de+Sistemas;Criando+soluções+modernas;PHP+•+Python+•+PostgreSQL;Automações+e+Integrações;Linux+•+Apache+•+FastAPI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Desenvolvedor+de+Sistemas;Automação+de+processos+reais;Integrações+com+ERP;PHP+•+Python+•+PostgreSQL;Linux+•+APIs+•+Infraestrutura" />
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 - 🚀 Analista de Sistemas / Desenvolvedor Full Stack  
-- ⚙️ Especialista em automações, integrações e sistemas internos  
+- ⚙️ Especialista em automações e integrações corporativas  
 - 🐧 Experiência com Linux, Apache, APIs e banco de dados  
-- 📊 Forte atuação com Excel VBA e processos corporativos  
-- ⚡ Transformo processos manuais em soluções inteligentes  
+- 📊 Forte atuação com Excel VBA e processos empresariais  
+- ⚡ Focado em resolver problemas reais com tecnologia  
 
 ---
 
-# 🛠️ Tecnologias
+## 🔥 Projetos em Destaque
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,python,postgresql,linux,apache,fastapi,git,github,vscode" />
-
-</div>
+### 🎮 RPG-WEB
+Plataforma web com foco em lógica, experiência do usuário e arquitetura escalável.
 
 ---
 
-# 🔥 Projetos em Destaque
-
-## 🎮 RPG-WEB
-Plataforma web interativa com foco em experiência do usuário e arquitetura escalável.
-
----
-
-## 💼 SALESCORE
+### 💼 SALESCORE
 Sistema corporativo robusto para gestão comercial, integrações com ERP e automações.
 
 ---
 
-## 🚀 PantaHub
-Ecossistema de sistemas internos integrados para operação e inteligência de negócio.
+### 🚀 PantaHub
+Ecossistema de sistemas internos voltado para operação e inteligência de negócio.
 
 ---
 
-# 🚀 GitHub Analytics
+## 🛠️ Stack Principal
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maujrfm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://skillicons.dev/icons?i=php,python,postgresql,linux,apache,fastapi,git" />
 
 </div>
 
 ---
 
-# 📊 Linguagens e Stack Real
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,python,postgresql,js,html,css,linux,apache,fastapi,git" />
-
-</div>
-
----
-
-# 📈 Resumo do Perfil
-
-<div align="center">
-
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maujrfm&theme=tokyonight" />
-
-<br><br>
-
-
-</div>
-
----
-
-# ⚡ Stack Principal
+## ⚙️ Especialidades
 
 <div align="center">
 
@@ -95,7 +62,17 @@ Ecossistema de sistemas internos integrados para operação e inteligência de n
 
 ---
 
-# 🌐 Contato
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maujrfm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+</div>
+
+---
+
+## 🌐 Contato
 
 <div align="center">
 
