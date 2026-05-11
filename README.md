@@ -91,10 +91,17 @@ Sistema de chamados e suporte interno.
 
 </div>
 
+
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maujrfm&theme=tokyo-night&hide_border=true"/>
 
 </div>
