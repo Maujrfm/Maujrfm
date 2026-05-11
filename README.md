@@ -63,10 +63,6 @@ Ecossistema de sistemas internos integrados para operação e inteligência de n
 
 <div align="center">
 
-<img width="65%" src="https://quickchart.io/chart?c={type:'bar',data:{labels:['PHP','Python','PostgreSQL','JavaScript','HTML/CSS','VBA'],datasets:[{label:'Uso no dia a dia',data:[95,85,90,65,60,80]}]},options:{legend:{display:false},scales:{xAxes:[{ticks:{fontColor:'%23c9d1d9'},gridLines:{color:'%2330363d'}}],yAxes:[{ticks:{fontColor:'%23c9d1d9',beginAtZero:true,max:100},gridLines:{color:'%2330363d'}}]},title:{display:true,text:'Stack mais utilizada',fontColor:'%2338BDF8'},plugins:{datalabels:{display:false}}}}" />
-
-<br><br>
-
 <img src="https://skillicons.dev/icons?i=php,python,postgresql,js,html,css,linux,apache,fastapi,git" />
 
 </div>
@@ -81,7 +77,6 @@ Ecossistema de sistemas internos integrados para operação e inteligência de n
 
 <br><br>
 
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maujrfm&theme=tokyonight&utcOffset=-4" />
 
 </div>
 
@@ -94,7 +89,7 @@ Ecossistema de sistemas internos integrados para operação e inteligência de n
 ![Backend](https://img.shields.io/badge/Backend-PHP%20%7C%20Python-0d1117?style=for-the-badge&logo=code&logoColor=38BDF8)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
 ![Infra](https://img.shields.io/badge/Infra-Linux%20%7C%20Apache-0d1117?style=for-the-badge&logo=linux&logoColor=38BDF8)
-![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-Excel%20VBA-0d1117?style=for-the-badge&logo=microsoft-excel&logoColor=38BDF8)
+![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-Excel%20VBA%20%7C%20FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=38BDF8)
 
 </div>
 
