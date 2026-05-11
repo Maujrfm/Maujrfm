@@ -1,120 +1,93 @@
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Mauricio%20Junior&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas%20•%20Automações%20•%20Infra%20•%20Dark%20UI&descAlignY=60&descAlign=50"/>
+
+</p>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Mauricio%20Junior&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-### Desenvolvedor de Sistemas & Automação
-
-🚀 Transformando processos manuais em soluções inteligentes
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=1000&lines=Desenvolvedor+de+Sistemas;Criando+soluções+modernas;PHP+•+Python+•+PostgreSQL;Automações+e+Integrações;Linux+•+Apache+•+FastAPI" />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
-- Analista de Sistemas / Desenvolvedor Full Stack  
-- Focado em automações, integrações e sistemas internos  
-- Experiência com servidores Linux, APIs, banco de dados e Excel avançado  
-- Apaixonado por tecnologia, eficiência e melhoria contínua  
+<div align="left">
 
----
-
-## 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,python,postgres,linux,apache,fastapi,git,github,vscode" />
-
-<br><br>
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- 🚀 Analista de Sistemas / Desenvolvedor Full Stack
+- ⚙️ Focado em automações, integrações e sistemas internos
+- 🖥️ Criador do ecossistema PantaHub, PortalHub, PantaLog e PantaHelp
+- 🐧 Experiência com servidores Linux, Apache, APIs e banco de dados
+- 📊 Especialista em automações com Excel VBA e processos corporativos
+- ⚡ Transformando processos manuais em soluções inteligentes
 
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧩 PantaHub</h3>
-      <p>Sistema corporativo de gestão comercial e operação interna com integrações e automações.</p>
-    </td>
-    <td width="50%">
-      <h3>🌐 PortalHub</h3>
-      <p>Central de acesso aos sistemas internos da empresa.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📦 PantaLog</h3>
-      <p>Sistema de controle logístico e armazém.</p>
-    </td>
-    <td width="50%">
-      <h3>🎫 PantaHelp</h3>
-      <p>Sistema de suporte e chamados internos.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 GitHub Analytics
+# 🛠️ Tecnologias
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maujrfm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maujrfm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maujrfm&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maujrfm&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maujrfm&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=php,python,postgresql,linux,apache,fastapi,git,github,vscode" />
 
 </div>
 
 ---
 
-## ⚡ Stack Principal
+# 🔥 Projetos em Destaque
+
+## 🚀 PantaHub
+Sistema corporativo para gestão comercial, operação interna, integrações e automações.
+
+---
+
+## 🌐 PortalHub
+Hub central de acesso aos sistemas internos da empresa.
+
+---
+
+## 📦 PantaLog
+Sistema para controle logístico e operação de armazém.
+
+---
+
+## 🎫 PantaHelp
+Sistema de chamados e suporte interno.
+
+---
+
+# 🚀 GitHub Analytics
 
 <div align="center">
 
-![Backend](https://img.shields.io/badge/Backend-PHP%20%7C%20Python-0d1117?style=for-the-badge&logo=code&logoColor=white)
-![Database](https://img.shields.io/badge/Database-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white)
-![Infra](https://img.shields.io/badge/Infra-Linux%20%7C%20Apache-0d1117?style=for-the-badge&logo=linux&logoColor=white)
-![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-Excel%20VBA-0d1117?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Maujrfm&show_icons=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
+
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maujrfm&layout=compact&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
 ---
 
-## 📈 Atividade
+# ⚡ Tecnologias que mais utilizo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maujrfm&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+<img src="https://skillicons.dev/icons?i=php,python,postgresql,linux,apache,fastapi" />
 
 </div>
 
 ---
 
-## 🌎 Contato
+# 🌐 Contato
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Maujrfm-181717?style=for-the-badge&logo=github)](https://github.com/Maujrfm)
+<a href="https://github.com/Maujrfm">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+</a>
 
 </div>
 
@@ -122,6 +95,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer"/>
 
 </div>
