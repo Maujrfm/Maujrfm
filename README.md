@@ -55,17 +55,33 @@ Ecossistema de sistemas internos integrados para operação e inteligência de n
 
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maujrfm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maujrfm&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+# 📊 Linguagens e Stack Real
+
+<div align="center">
+
+<img width="65%" src="https://quickchart.io/chart?c={type:'bar',data:{labels:['PHP','Python','PostgreSQL','JavaScript','HTML/CSS','VBA'],datasets:[{label:'Uso no dia a dia',data:[95,85,90,65,60,80]}]},options:{legend:{display:false},scales:{xAxes:[{ticks:{fontColor:'%23c9d1d9'},gridLines:{color:'%2330363d'}}],yAxes:[{ticks:{fontColor:'%23c9d1d9',beginAtZero:true,max:100},gridLines:{color:'%2330363d'}}]},title:{display:true,text:'Stack mais utilizada',fontColor:'%2338BDF8'},plugins:{datalabels:{display:false}}}}" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=php,python,postgresql,js,html,css,linux,apache,fastapi,git" />
 
 </div>
 
 ---
 
-# 📈 Atividade
+# 📈 Resumo do Perfil
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maujrfm&theme=tokyonight" />
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maujrfm&theme=tokyonight" />
+
+<br><br>
+
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maujrfm&theme=tokyonight&utcOffset=-4" />
 
 </div>
 
