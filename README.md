@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=1000&lines=Desenvolvedor+de+Sistemas;Criando+soluções+modernas;PHP+•+Python+•+PostgreSQL;Automações+e+Integrações;Linux+•+Apache+•+FastAPI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Desenvolvedor+de+Sistemas;Criando+soluções+modernas;PHP+•+Python+•+PostgreSQL;Automações+e+Integrações;Linux+•+Apache+•+FastAPI" />
 
 </div>
 
@@ -14,16 +14,11 @@
 
 # 👨‍💻 Sobre mim
 
-<div align="left">
-
-- 🚀 Analista de Sistemas / Desenvolvedor Full Stack
-- ⚙️ Focado em automações, integrações e sistemas internos
-- 🖥️ Criador do ecossistema PantaHub, PortalHub, PantaLog e PantaHelp
-- 🐧 Experiência com servidores Linux, Apache, APIs e banco de dados
-- 📊 Especialista em automações com Excel VBA e processos corporativos
-- ⚡ Transformando processos manuais em soluções inteligentes
-
-</div>
+- 🚀 Analista de Sistemas / Desenvolvedor Full Stack  
+- ⚙️ Especialista em automações, integrações e sistemas internos  
+- 🐧 Experiência com Linux, Apache, APIs e banco de dados  
+- 📊 Forte atuação com Excel VBA e processos corporativos  
+- ⚡ Transformo processos manuais em soluções inteligentes  
 
 ---
 
@@ -39,23 +34,18 @@
 
 # 🔥 Projetos em Destaque
 
+## 🎮 RPG-WEB
+Plataforma web interativa com foco em experiência do usuário e arquitetura escalável.
+
+---
+
+## 💼 SALESCORE
+Sistema corporativo robusto para gestão comercial, integrações com ERP e automações.
+
+---
+
 ## 🚀 PantaHub
-Sistema corporativo para gestão comercial, operação interna, integrações e automações.
-
----
-
-## 🌐 PortalHub
-Hub central de acesso aos sistemas internos da empresa.
-
----
-
-## 📦 PantaLog
-Sistema para controle logístico e operação de armazém.
-
----
-
-## 🎫 PantaHelp
-Sistema de chamados e suporte interno.
+Ecossistema de sistemas internos integrados para operação e inteligência de negócio.
 
 ---
 
@@ -63,7 +53,7 @@ Sistema de chamados e suporte interno.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maujrfm&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maujrfm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maujrfm&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -71,11 +61,24 @@ Sistema de chamados e suporte interno.
 
 ---
 
-# ⚡ Tecnologias que mais utilizo
+# 📈 Atividade
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,python,postgresql,linux,apache,fastapi" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maujrfm&theme=tokyonight" />
+
+</div>
+
+---
+
+# ⚡ Stack Principal
+
+<div align="center">
+
+![Backend](https://img.shields.io/badge/Backend-PHP%20%7C%20Python-0d1117?style=for-the-badge&logo=code&logoColor=38BDF8)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
+![Infra](https://img.shields.io/badge/Infra-Linux%20%7C%20Apache-0d1117?style=for-the-badge&logo=linux&logoColor=38BDF8)
+![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-Excel%20VBA-0d1117?style=for-the-badge&logo=microsoft-excel&logoColor=38BDF8)
 
 </div>
 
@@ -86,22 +89,15 @@ Sistema de chamados e suporte interno.
 <div align="center">
 
 <a href="https://github.com/Maujrfm">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GitHub-Maujrfm-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 </div>
-
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maujrfm&theme=tokyo-night&hide_border=true"/>
 
 </div>
